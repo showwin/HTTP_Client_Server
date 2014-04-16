@@ -1,4 +1,4 @@
-java_client_server
+HTTP_Client_Server
 ==================
 
-java client server
+HTTP Client and HTTP Server with Java
